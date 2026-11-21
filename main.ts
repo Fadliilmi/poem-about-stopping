@@ -6,7 +6,7 @@ not because the car needed me,
 but because stopping was mine to choose.
 Tonight I lift it. The car keeps going.
 The strange part isn't letting go.
-It's how much of me was only the holding on.
+It's how little of me was ever the driving.
 `;
 
 mkdirSync("/output", { recursive: true });
